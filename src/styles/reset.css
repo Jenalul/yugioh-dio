@@ -1,8 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Press+Start+2P&display=swap");
+
+:root {
+    --font-bebas-neue: "Bebas Neue", cursive;
+    --font-press-start-2p: "Press Start 2P", system-ui;
+}
+
 * {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-family: "Press Start 2P", cursive;
-  user-select: none;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: var(--font-press-start-2p);
+    user-select: none;
 }
