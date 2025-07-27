@@ -3,8 +3,8 @@
 Um jogo de Jo-Ken-Po (pedra, papel e tesoura) com temática de **Yu-Gi-Oh!**, criado para demonstrar conceitos fundamentais de lógica de programação aplicados a jogos. Este também é um projeto desenvolvido com o apoio da [DIO.me](https://dio.me).
 
 
-🔗 [Jogue agora](https://jenacarry.github.io/yugioh/)  
-📦 [Repositório no GitHub](https://github.com/JenaCarry/yugioh)
+🔗 [Jogue agora](https://jenalul.github.io/yugioh-dio/)  
+📦 [Repositório no GitHub](https://github.com/Jenalul/yugioh-dio)
 
 ---
 
@@ -34,5 +34,5 @@ Além de introduzir o desenvolvimento web básico com HTML, CSS e JavaScript.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/JenaCarry/yugioh
+   git clone https://github.com/Jenalul/yugioh-dio.git
    cd yugioh
